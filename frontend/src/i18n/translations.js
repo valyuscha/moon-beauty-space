@@ -89,6 +89,14 @@ export const translations = {
       subtitle: "Wybrane stylizacje wykonane w Moon Beauty Space.",
       viewAll: "Zobacz całe portfolio",
       scrollHint: "Przesuń",
+      tabs: {
+        natural: "Naturalne",
+        french: "Francuski",
+        extensions: "Przedłużanie",
+        minimal: "Minimalne",
+        elegant: "Eleganckie",
+        pedicure: "Pedicure",
+      },
     },
     reviews: {
       eyebrow: "Opinie",
@@ -243,6 +251,14 @@ export const translations = {
       subtitle: "Selected styles created at Moon Beauty Space.",
       viewAll: "See full portfolio",
       scrollHint: "Scroll",
+      tabs: {
+        natural: "Natural",
+        french: "French",
+        extensions: "Extensions",
+        minimal: "Minimal",
+        elegant: "Elegant",
+        pedicure: "Pedicure",
+      },
     },
     reviews: {
       eyebrow: "Reviews",
@@ -397,6 +413,14 @@ export const translations = {
       subtitle: "Обрані стилізації, виконані в Moon Beauty Space.",
       viewAll: "Переглянути повне портфоліо",
       scrollHint: "Прокрутіть",
+      tabs: {
+        natural: "Натуральні",
+        french: "Французький",
+        extensions: "Нарощування",
+        minimal: "Мінімальні",
+        elegant: "Елегантні",
+        pedicure: "Педикюр",
+      },
     },
     reviews: {
       eyebrow: "Відгуки",
